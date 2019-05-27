@@ -1,3 +1,4 @@
+#Zahlenpyramide
 Verfassen Sie einen Methode ConstructPyramid, die zwei int Parameter n und m entgegennimmt und ein mehrdimensionales int-Array auf der Konsole ausgibt.
 
 Innerhalb der Methode soll das mehrdimensionale Array so konstruiert werden, dass es n*m Felder besitzt. Jedes Feld soll mit einer Zahl gefüllt werden, welche die Entfernung zum Rand des Arrays darstellt.
