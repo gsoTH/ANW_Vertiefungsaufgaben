@@ -7,3 +7,8 @@ Beispiel
 ConstructPyramid(5,5)
 
 <table><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>2</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>
+
+
+
+____
+[Lösungsvorschlag 1](Arrays/Mehrdimensional/Zahlenpyramide.md)
