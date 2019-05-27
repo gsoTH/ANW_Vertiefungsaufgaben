@@ -11,4 +11,4 @@ ConstructPyramid(5,5)
 
 
 ____
-[Lösungsvorschlag 1](Arrays/Mehrdimensional/Zahlenpyramide.md)
+[Lösungsvorschlag](https://gist.github.com/gsoTH/1f82f34b44f762924135d24867d521f4)
