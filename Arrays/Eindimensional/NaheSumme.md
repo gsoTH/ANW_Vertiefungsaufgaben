@@ -10,11 +10,14 @@ Eingabe:
     int ziel = 24;
 
     Console.WriteLine(FindeSumme(a, b, ziel));
+
 Ausgabe:
 
     23
 
 ## Verweise
+[Absolute Werte ermitteln mit ´Math.Abs()´](https://docs.microsoft.com/de-de/dotnet/api/system.math.abs?view=netframework-4.8)
+
 [Quelle: CS Dojo](https://youtu.be/GBuHSRDGZBY)
 
 [Lösungsvorschlag](https://gist.github.com/gsoTH/745563dc6fc7dfa919e4404381c9494d)
