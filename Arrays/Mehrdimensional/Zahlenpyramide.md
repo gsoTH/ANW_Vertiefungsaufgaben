@@ -5,7 +5,11 @@ Innerhalb der Methode soll das mehrdimensionale Array so konstruiert werden, das
 
 ___
 ## Beispiel
-```ConstructPyramid(5,5)```
+Eingabe:
+
+    ConstructPyramid(5,5);
+
+Ausgabe:
 
 <table><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>2</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>
 
