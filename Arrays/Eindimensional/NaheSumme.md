@@ -16,7 +16,7 @@ Ausgabe:
     23
 
 ## Verweise
-[Absolute Werte ermitteln mit ´Math.Abs()´](https://docs.microsoft.com/de-de/dotnet/api/system.math.abs?view=netframework-4.8)
+[Absolute Werte ermitteln mit Math.Abs()](https://docs.microsoft.com/de-de/dotnet/api/system.math.abs?view=netframework-4.8)
 
 [Quelle: CS Dojo](https://youtu.be/GBuHSRDGZBY)
 
