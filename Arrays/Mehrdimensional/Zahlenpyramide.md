@@ -3,7 +3,6 @@ Verfassen Sie einen Methode *ConstructPyramid*, die zwei int Parameter entgegenn
 
 Innerhalb der Methode soll das mehrdimensionale Array so konstruiert werden, dass es n*m Felder besitzt. Jedes Feld soll mit einer Zahl gefüllt werden, welche die Entfernung zum Rand des Arrays darstellt.
 
-___
 ## Beispiel
 Eingabe:
 
@@ -15,5 +14,5 @@ Ausgabe:
 
 
 
-____
+## Verweise
 [Lösungsvorschlag](https://gist.github.com/gsoTH/1f82f34b44f762924135d24867d521f4)
