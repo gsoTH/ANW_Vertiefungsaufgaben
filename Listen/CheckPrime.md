@@ -33,7 +33,7 @@ Ausgabe
         Gefundene Primzahlen: 5
         Benötigte Zeit:       00:00:01
 
-
+____
 2. Implementieren Sie eine weitere Methode mit identischer Bezeichnung, die zwei long-Argumente entgegennimmt. Der neue Parameter trägt den Namen lowerBound und stellt die Untergrenze der zu prüfenden Zahlen dar. Die Methode soll entsprechend alle Primzahlen zwischen lower- und upperBound finden und als Liste zurückgeben.
 
   Eingabe
@@ -43,8 +43,8 @@ Ausgabe
 
         5
         7
-
+____
 3. [Fortgeschritten]
 Erweitern Sie die Methode FindPrime(long) so, dass die zu erledigenden Rechnungen auf verschiedene Threads aufgeteilt werden. D.h. dass Innerhalb der Methode FindPrime(long) die Methode FindPrime(long, long) mehrfach als eigener Thread aufgerufen wird und die Ergebnisse schließlich zu einer großen Liste zusammengefasst werden.
 
-Anhand dieser [Codeschnipsel](http://www.albahari.com/threading/) sollten Sie Threads erfolgreich einsetzen können.
+  [Anhand dieser Codeschnipsel sollten Sie Threads erfolgreich einsetzen können.](http://www.albahari.com/threading/)
