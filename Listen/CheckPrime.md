@@ -46,3 +46,5 @@ Ausgabe
 
 3. [Fortgeschritten]
 Erweitern Sie die Methode FindPrime(long) so, dass die zu erledigenden Rechnungen auf verschiedene Threads aufgeteilt werden. D.h. dass Innerhalb der Methode FindPrime(long) die Methode FindPrime(long, long) mehrfach als eigener Thread aufgerufen wird und die Ergebnisse schließlich zu einer großen Liste zusammengefasst werden.
+
+Anhand dieser [Codeschnipsel](http://www.albahari.com/threading/) sollten Sie Threads erfolgreich einsetzen können.
