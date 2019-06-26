@@ -12,3 +12,7 @@ Eingabe:
 Ausgabe:
 
 <table><tr><td>6</td><td>10</td><td>14</td></tr><tr><td>12</td><td>20</td><td>28</td></tr></table>
+
+
+## Verweise
+[Lösungsvorschlag](https://gist.github.com/gsoTH/d5607e6c8aa34f486e6f1ffd0cb536e3)
