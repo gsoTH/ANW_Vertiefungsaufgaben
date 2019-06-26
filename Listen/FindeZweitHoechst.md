@@ -11,3 +11,6 @@ Eingabe:
 Ausgabe:
 
     17
+
+## Verweise
+[Lösungsvorschlag](https://gist.github.com/gsoTH/6a899d29a861300c0da4748432259688)
